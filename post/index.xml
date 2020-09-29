@@ -165,14 +165,5 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <description>This is my first post, how exciting!</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://username.github.io/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/test/</guid>
-      <description>test This is a test.</description>
-    </item>
-    
   </channel>
 </rss>
